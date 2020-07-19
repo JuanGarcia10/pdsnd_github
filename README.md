@@ -1,5 +1,5 @@
 ### Date created
-**2020-07-15:** Creation script for the analysis of the *bikeshare* data from chicago, new york city and washington.
+**2020-07-15:** Script for the analysis of the *bikeshare* data from chicago, new york city and washington.
 
 ### Project Title
 Data Analysis of the bikeshare-panel from the cities of Chicago, New York, and Washington
