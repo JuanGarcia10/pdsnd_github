@@ -25,7 +25,7 @@ def get_filters():
     while month not in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
         month = input('Please try again, there is only information available for the first half of the year (from january to june): ').lower()
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input('One last question: Which day are you interestd in? monday, tuesday,...? Otherwise write just "all": ').lower()
+    day = input('One last question: Are you interested in an specific day? monday, tuesday,...? Otherwise write just "all": ').lower()
     while day not in ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']:
         day = input('Please try again, the program did not recognize your input: ').lower()
 
